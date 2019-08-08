@@ -1,0 +1,26 @@
+/***
+COLOR PALETTE
+
+#fff5ee - Seashell (background for main content)
+#ff8c00 - Dark Orange (main link color)
+#8a360f - Burnt Sienna (sidebar color)
+
+#c6e2ff - Sky Blue (heading text color)
+#1c86ee - Bright Blue (heading and footer background color)
+#0000cd - Royal Blue (heading link color)
+***/
+/***
+Cross-platform
+***/
+.topterms {
+            background-color: #fbfbfb;
+            color: #9c9c9c;
+            font-size: 12px;
+            line-height: 16px;
+            text-align: center;
+            margin: 0;
+            padding: 4px 0px;
+        }
+/***
+Individual-pages
+***/
